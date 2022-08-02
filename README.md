@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ubaid-ch
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning full stack web development
-- 💞️ I’m looking to collaborate on same topics
+- 🦾 I am a full stack developer(mern stack developer)
+
 
 
 
