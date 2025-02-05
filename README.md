@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ubaid-ch
-- 🦾 I am a full stack developer(mern stack developer)
+- 🦾 Smart Contract Developer
 
 
 
